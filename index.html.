@@ -1,0 +1,52 @@
+# catsloverlz..github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel Website </title>
+        <style>
+            body{
+                background:rgb(245, 196, 255);
+                color:rgb(255, 0, 145);
+                margin:15px;
+                border:10px groove rgb(247, 59, 119);
+            }
+            #invitation{
+                font-family:Helvetica;
+                font-size: 45px;
+                border:5px solid;
+                margin:15px;
+                box-shadow: 6px 7px 10px rgb(212, 157, 212);
+            }
+            h2{
+                font-family:Tahoma;
+                font-size: 25px;
+            margin:30px;
+            color:rgb(255, 0, 145);
+            }
+            p{
+                font-size: 20px;
+                font-family:Brush Script MT;
+                margin:20px;
+                color:rgb(173, 0, 173);
+            }
+            ul{
+                font-family:sans-serif;
+                margin:10px;
+                color:rgb(209, 25, 181);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1 align="center" id="invitation">Travel to Paris!</h1>
+        <h2 align="center">And be the principle characteer!</h2>
+        
+        <p>The details:</p>
+        <ul>
+            <li> <strong>Visit</strong> The eiffel tower </li>
+            <li><strong>Eat</strong> croissants</li>
+            <li><strong>Be ready</strong> To visit this incredible city</li>
+        </ul>
+    </body>
+</html>
